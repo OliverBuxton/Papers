@@ -1,6 +1,7 @@
+#Author 
+O.Buxton, UOM
+A.Author, SWE
 
-A.Autohor
-O.Buxton"
 "Title of Paper"
 "Introduction section"
 
