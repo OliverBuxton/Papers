@@ -1,3 +1,4 @@
-"O.Buxton"
-"Title of Paper"
+"O.Buxton & John"
+"New Title of Paper"
 "Introduction section"
+Second reference
